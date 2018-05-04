@@ -1,14 +1,14 @@
 /*DEVELOPER: Tanisha Cruz, IS117-006, Spring 2018*/
 body {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
+  padding-top: 5 rem;
+  padding-bottom: 5 rem;
   color: #737373;
 }
 
 
 /* Carousel */
 .carousel {
-  margin-top: 4rem;
+  margin-top: 5 rem;
 }
 
 /* Declaring the heights*/

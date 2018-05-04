@@ -1,32 +1,22 @@
-/* GLOBAL STYLES
--------------------------------------------------- */
-/* Padding below the footer and lighter body text */
-
+/*DEVELOPER: Tanisha Cruz, IS117-006, Spring 2018*/
 body {
   padding-top: 3rem;
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  color: #737373;
 }
 
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-
-/* Carousel base class */
+/* Carousel */
 .carousel {
   margin-top: 4rem;
 }
-/* Since positioning the image, we need to help out the caption */
-.carousel-caption {
-  bottom: 3rem;
-  z-index: 10;
-}
 
-/* Declare heights because of positioning of img element */
+/* Declaring the heights*/
 .carousel-item {
   height: 32rem;
-  background-color: #777;
+  background-color: #808080;
 }
+
 .carousel-item > img {
   position: absolute;
   top: 0;

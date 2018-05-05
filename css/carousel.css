@@ -6,13 +6,10 @@ body {
   color: #5a5a5a;
 }
 
+/* Carousel*/
 
-/* CUSTOMIZE THE CAROUSEL
--------------------------------------------------- */
-
-/* Carousel base class */
 .carousel {
-  margin-top: 10rem;
+  margin-top: 5rem;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {

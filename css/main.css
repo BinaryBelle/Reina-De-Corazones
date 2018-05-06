@@ -8,7 +8,7 @@ body {
   color: #4d4d4d;
 }
 
-/* Carousel
+/* Since I added the padding in the body, I don't need this anymore but I'm keeping it just in case something goes wrong lol
 
 .carousel {
   margin-top: 3rem;
